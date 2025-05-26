@@ -6,7 +6,7 @@
 
 It is a fully openai api based,  voice assistant that combines the power of Orpheus TTS, LiveKit, and local LLMs to create incredibly natural and expressive speech. This project eliminates the need for cloud-based API services by integrating:
 
-https://github.com/user-attachments/assets/325358fb-2ea8-41c7-a599-a7850e4c6bbc
+
 
 
 - **Orpheus TTS** for human-like speech with natural intonation and emotion
